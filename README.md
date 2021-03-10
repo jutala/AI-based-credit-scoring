@@ -9,7 +9,7 @@ Final project for the Building AI course
 
 ## Summary
 
-My AI idea focuses on estimating the probability of default of a bank's customer based on the customer characteristics, lending and payment behaviour. The model would continously update itself as more data is gathered on current customers (payment behaviour data such as payment delays etc.) new customers come in (customer characteristics such as age, sex, zip code, occupation, etc.).
+My AI idea focuses on estimating the probability of default of a bank's customer based on the customer characteristics, lending and payment behaviour. The model would continously update itself as more data is gathered on current customers (payment behaviour data such as payment delays etc.) and as new customers come in (customer characteristics such as age, sex, zip code, occupation, etc.).
 
 
 ## Background
