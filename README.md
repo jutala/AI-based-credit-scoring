@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# AI based probability of defaul
+# AI based probability of default
 
 Final project for the Building AI course
 
